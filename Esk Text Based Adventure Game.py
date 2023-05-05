@@ -7,7 +7,7 @@ actions = ["move", "read", "pickup", "open", "enter", "shout", "hit", "shoot you
 directions = ["north", "east", "south", "west"]
 nearbyObjects = []
 global currentRoom
-currentRoom = "forest1"
+currentRoom = "bedroom"
 inventory = []
 global isBedroomDoorLocked
 isBedroomDoorLocked = True
